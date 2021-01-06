@@ -1,0 +1,29 @@
+单机命令
+ls
+cd
+mkdir
+mv
+cp
+grep
+cat
+pwd
+du -sh
+df -ah
+mount
+fdisk
+
+
+*sed
+*awk
+
+网络操作有关命令
+*ssh
+*scp
+
+
+编辑器
+*vim
+
+
+版本控制
+*git
