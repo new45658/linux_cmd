@@ -1,17 +1,23 @@
 单机命令
 ls
 cd
+pwd
 mkdir
 mv
 cp
+chmod
+tar
+kill
+pkill
+
 grep
 cat
-pwd
+
+ln
 du -sh
 df -ah
 mount
 fdisk
-
 
 *sed
 *awk
@@ -27,3 +33,5 @@ fdisk
 
 版本控制
 *git
+
+
