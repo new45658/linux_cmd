@@ -30,6 +30,17 @@ fdisk
 编辑器
 *vim
 
+系统监控
+top
+htop 查看CPU使用率
+
+iotop 
+iostat  查看IO情况
+
+free -h 查看内存信息
+
+nvidia-smi 查看显卡状态
+nvidia-smi -L 查看GPU信息
 
 版本控制
 *git
