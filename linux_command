@@ -14,8 +14,8 @@ grep
 cat
 
 ln
-du -sh
-df -ah
+du -sh :查看当前目录的总大小  或者查看指定目录的总大小
+df -ah ：查看当前目录或者指定目录
 mount
 fdisk
 
@@ -42,7 +42,16 @@ free -h 查看内存信息
 nvidia-smi 查看显卡状态
 nvidia-smi -L 查看GPU信息
 
+
+
 版本控制
 *git
+使用git上传文件命令
+1. 在本地新建一个文件夹；把远程仓库的url拷贝到新建的文件夹  ：git  clone url
+2.把要上传的文件拷贝到新建的文件夹里面的远程仓库目录
+3.使用git add "加文件名"
+4.git commit -m "备注信息"
+5.git push      提交
+
 
 
